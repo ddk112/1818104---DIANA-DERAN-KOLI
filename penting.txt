@@ -1,0 +1,17 @@
+NAMA : DIANA DERAN KOLI
+NIM : 1818104
+KELAS : A
+
+JUDUL : UKM BASKET ITN
+NAMA FOLDER : ukm_basket_itn
+NAMA DATABASE : ukmbasketitn
+NAMA TABEL : mahasiswa
+
+variabel API key : UKM-KEY
+API Key Limit 2 kali dalam sejam (GET)
+
+------KEY-----
+itn123
+ukm123
+basket123
+diana123  --->untuk key ini belum digunakan sama sekali
